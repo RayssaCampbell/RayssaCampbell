@@ -11,7 +11,6 @@ I'm Rayssa Campbell, I'm a Front End programmer, I'm currently learning and crea
 Connect with me:
 <br>
 <a href="https://www.instagram.com/rayssacampbell10/"> <img src="https://cdn.icon-icons.com/icons2/3398/PNG/512/instagram_logo_icon_214683.png" alt="" width="50px"> <a/>
-<a href="https://web.telegram.org/a/"> <img src="https://www.freepnglogos.com/uploads/telegram-png/file-telegram-font-awesome-svg-wikimedia-commons-7.png" alt="" width="50px"> <a/>
-<br>
+
 
 
